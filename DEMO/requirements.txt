@@ -13,7 +13,7 @@ streamlit==1.12.2
 streamlit_ace==0.1.1
 streamlit_card==0.0.3
 streamlit_tags==1.2.8
-torch==1.13.1
+torch==2.2.0
 transformers==4.30.0
 scikit-learn
 sentencepiece==0.1.97
